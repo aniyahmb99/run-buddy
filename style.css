@@ -221,3 +221,9 @@ section {
 .contact-info a {
     color: #fce138;
 }
+.text-left {
+    text-align: left;
+}
+.text-right {
+    text-align: right;
+}
