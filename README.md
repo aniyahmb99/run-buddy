@@ -1,0 +1,43 @@
+# RUN BUDDY
+
+
+## DESCRIPTION
+
+This is a app designed to motivate, inspire, and set the user up with a trainer to help them meet their fitness goals by signing up with one of the listed trainers. This project was made for an assignment through my bootcamp. It uses HTML and CSS.
+
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Technologies](#technologies)
+* [Future Development](#Future)
+* [Contributors](#contributors)
+* [Questions](#questions) 
+   
+## Installation
+
+
+## Usage  
+Allows users to find information about the companies brand and what they do.
+Users can look through Run Buddy's personal trainers and contact them if they find a good match for their fitness needs.
+
+
+### Deployment
+
+* [Link to app]( https://aniyahmb99.github.io/run-buddy/)
+
+
+## Technologies
+HTML and CSS
+
+
+## Screenshots
+
+Home Page
+![image](https://user-images.githubusercontent.com/65319429/97827461-ffa47f80-1c89-11eb-9ecd-733ef039cc49.png)
+
+## Contributors
+Aniyah Butler
+
+## Questions
+
+If you have any additional questions about this code or development regarding this project please feel free to contact me at aniyah_mb@yahoo.com.
