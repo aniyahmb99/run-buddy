@@ -33,7 +33,7 @@ HTML and CSS
 ## Screenshots
 
 Home Page
-![image](https://user-images.githubusercontent.com/65319429/97827461-ffa47f80-1c89-11eb-9ecd-733ef039cc49.png)
+![image]()
 
 ## Contributors
 Aniyah Butler
